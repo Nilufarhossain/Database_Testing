@@ -1,32 +1,57 @@
-# IDSDP_Staging_License_Database_Testing
-This database was tested on test data from the License module IDSDP_MOST staging server. While my office did not require this, I conducted the test to better understand how relational database management works in real-life servers.
+<div align="center">
 
-## List of Database Testing Performed 
-- DML testing
-- Database schema testing
-- Stroed Procedure Testing
+# 🗄️ Database Testing Portfolio
+
+### SQL • Data Validation • Database QA
+
+Hands-on database testing projects demonstrating practical SQL and database validation skills.
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Testing-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Testing-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20QA-orange)
+
+</div>
+
+---
+
+## 📂 Projects
+
+### 🐘 PostgreSQL Database Testing | DBeaver
+
+Hands-on PostgreSQL testing covering:
+
+- Positive & Negative Testing
+- Primary Key / Foreign Key Validation
+- CHECK & UNIQUE Constraint Testing
+- Data Integrity Testing
+- INNER JOIN Validation
+
+➡️ **[View PostgreSQL + DBeaver Project](./PostgreSQL_DBeaver/)**
+
+---
+
+### 🐬 MySQL Database Testing | phpMyAdmin
+
+Hands-on MySQL database testing covering:
+
+- DML Testing
+- Database Schema Testing
+- Data Validation
+- Stored Procedure Testing
 - Trigger Testing
-  
-## Environment 
-I tested this MySQL database on phpMyAdmin localhost. To run this project on phpMyAdmin, XAMPP needs to be installed on the PC.
 
-## Screenshots
-There is some SS of the database Testing 
+➡️ **[View MySQL + phpMyAdmin Project](./MySQL_phpMyAdmin/)**
 
-![applicationA column_key](https://github.com/Nilufarhossain/Database_Testing/assets/62650301/681e246a-1051-42ea-bbd9-623cb698e177)
+---
 
-![Application_A_nullable column](https://github.com/Nilufarhossain/Database_Testing/assets/62650301/eb645896-daaf-4172-aa46-ef18aeaeea1c)
+## 🛠️ Tools
 
-## Reference
-To learn how to pursue this database testing I followed a YouTube channel
-🔗
-https://www.youtube.com/watch?v=qE4hiSDtqGA&list=PLUDwpEzHYYLtmxThtmsBxocKuicJOddGj&index=12
+`PostgreSQL` • `MySQL` • `DBeaver` • `phpMyAdmin` • `SQL`
 
-## Lessons Learned
-I have always been interested in database management. This project has further increased my interest. In the future, I plan on testing functions and the ACID properties of databases.
+---
 
+<div align="center">
 
+### 🔍 Software QA | Database Testing
 
-
-
-
+</div>
