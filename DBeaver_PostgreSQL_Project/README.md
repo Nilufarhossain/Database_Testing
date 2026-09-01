@@ -23,7 +23,13 @@ The project demonstrates positive and negative testing, database constraints, da
 ## 🧪 Test Execution
 
 <p align="center">
-  <img src="assets/database-testing-demo.gif" width="750" alt="DBeaver Database Testing Demo"/>
+  <img src="assets/database-testing-montage.png"
+       width="700"
+       alt="PostgreSQL Database Testing in DBeaver">
+</p>
+
+<p align="center">
+  <i>Positive testing, constraint validation, foreign key testing and JOIN validation in DBeaver.</i>
 </p>
 
 ---
